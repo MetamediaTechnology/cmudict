@@ -36785,12 +36785,10 @@ eighmey EY1 M IY0
 eighmy EY1 G M IY0
 eight EY1 T
 eight's EY1 T S
-eighteen EY0 T IY1 N
-eighteen(2) EY1 T IY1 N
-eighteen's EY0 T IY1 N Z
-eighteens EY0 T IY1 N Z
-eighteenth EY0 T IY1 N TH
-eighteenth(2) EY1 T IY1 N TH
+eighteen EY2 T IY1 N
+eighteen's EY2 T IY1 N Z
+eighteens EY2 T IY1 N Z
+eighteenth EY2 T IY1 N TH
 eightfold EY1 T F OW2 L D
 eighth EY1 T TH
 eighth(2) EY1 TH
@@ -42418,11 +42416,10 @@ fifer F AY1 F ER0
 fifi F IY1 F IY0
 fifield F IH1 F IY0 L D
 fiftee F IH1 F T IY0
-fifteen F IH0 F T IY1 N
-fifteen(2) F IH1 F T IY1 N
-fifteen's F IH0 F T IY1 N Z
-fifteens F IH0 F T IY1 N Z
-fifteenth F IH0 F T IY1 N TH
+fifteen F IH2 F T IY1 N
+fifteen's F IH2 F T IY1 N Z
+fifteens F IH2 F T IY1 N Z
+fifteenth F IH2 F T IY1 N TH
 fifth F IH1 F TH
 fifth(2) F IH1 TH
 fifths F IH1 F TH S
@@ -44560,11 +44557,9 @@ fournier F AO1 R N IY2 ER0
 fours F AO1 R Z
 foursome F AO1 R S AH0 M
 foursquare F AO1 R S K W EH1 R
-fourteen F AO1 R T IY1 N
-fourteen(2) F AO2 R T IY1 N
-fourteens F AO1 R T IY1 N Z
-fourteenth F AO1 R T IY1 N TH
-fourteenth(2) F AO2 R T IY1 N TH
+fourteen F AO2 R T IY1 N
+fourteens F AO2 R T IY1 N Z
+fourteenth F AO2 R T IY1 N TH
 fourth F AO1 R TH
 fourth's F AO1 R TH S
 fourthly F AO1 R TH L IY0
@@ -84512,8 +84507,8 @@ niner N AY1 N ER0
 niners N AY1 N ER0 Z
 niners' N AY1 N ER0 Z
 nines N AY1 N Z
-nineteen N AY1 N T IY1 N
-nineteenth N AY1 N T IY1 N TH
+nineteen N AY2 N T IY1 N
+nineteenth N AY2 N T IY1 N TH
 nineties N AY1 N T IY0 Z
 nineties' N AY1 N T IY0 Z
 ninetieth N AY1 N T IY0 IH0 TH
@@ -109407,9 +109402,9 @@ seven S EH1 V AH0 N
 seven's S EH1 V AH0 N Z
 sevenfold S EH1 V AH0 N F OW2 L D
 sevens S EH1 V AH0 N Z
-seventeen S EH1 V AH0 N T IY1 N
-seventeens S EH1 V AH0 N T IY2 N Z
-seventeenth S EH1 V AH0 N T IY1 N TH
+seventeen S EH2 V AH0 N T IY1 N
+seventeens S EH2 V AH0 N T IY1 N Z
+seventeenth S EH2 V AH0 N T IY1 N TH
 seventh S EH1 V AH0 N TH
 sevenths S EH1 V AH0 N TH S
 seventies S EH1 V AH0 N T IY0 Z
@@ -111773,13 +111768,11 @@ sixer S IH1 K S ER0
 sixers S IH1 K S ER0 Z
 sixes S IH1 K S IH0 Z
 sixfold S IH1 K S F OW2 L D
-sixteen S IH0 K S T IY1 N
-sixteen(2) S IH1 K S T IY1 N
+sixteen S IH2 K S T IY1 N
 sixteen's S IH2 K S T IY1 N Z
-sixteens S IH1 K S T IY1 N Z
-sixteenth S IH0 K S T IY1 N TH
-sixteenth(2) S IH1 K S T IY1 N TH
-sixteenths S IH1 K S T IY1 N TH S
+sixteens S IH2 K S T IY1 N Z
+sixteenth S IH2 K S T IY1 N TH
+sixteenths S IH2 K S T IY1 N TH S
 sixth S IH1 K S TH
 sixths S IH1 K S TH S
 sixties S IH1 K S T IY0 Z
@@ -121309,10 +121302,10 @@ thirst TH ER1 S T
 thirsting TH ER1 S T IH0 NG
 thirsts TH ER1 S T S
 thirsty TH ER1 S T IY0
-thirteen TH ER1 T IY1 N
-thirteen's TH ER1 T IY2 N Z
-thirteenth TH ER1 T IY1 N TH
-thirteenths TH ER1 T IY1 N TH S
+thirteen TH ER2 T IY1 N
+thirteen's TH ER2 T IY1 N Z
+thirteenth TH ER2 T IY1 N TH
+thirteenths TH ER2 T IY1 N TH S
 thirties TH ER1 T IY0 Z
 thirtieth TH ER1 T IY0 AH0 TH
 thirtieth(2) TH ER1 T IY0 IH0 TH
